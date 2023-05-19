@@ -1,4 +1,4 @@
-"""Created by Mohammad Nafi, HW-6 Problem-1, 6/1/2022.
+"""6/1/2022
 The app collects and stores taxpayers' data into a dictionary.
 Inputs from the user: name (str) || income, in dollars (float)
 Outputs to the user: tax, in dollars (float) || average_tax, in dollars (float) || taxpayers (dict), key: name (str), value: income (float) & tax (float)
